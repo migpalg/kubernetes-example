@@ -1,0 +1,11 @@
+{
+  "name": "@migpalg/root-micro-workspace",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": "Miguel Palacio <migpalg@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.8.1"
+}

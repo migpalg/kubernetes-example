@@ -1,0 +1,7 @@
+packages:
+  - apps/*
+  - services/*
+  - packages/*
+catalog:
+  express: ^5.1.0
+injectWorkspacePackages: true
